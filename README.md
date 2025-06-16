@@ -7,7 +7,7 @@ Clustering is a powerful technique with many use cases. In the financial industr
 * Feature Engineering
 * K-Means Clustering
 
-## Kmeans Clustering
+## Kmeans Clustering - Plot
 <p align="left">
  <img src="assets/Kmeans.png" alt="kmeans_plot"/>
 </p>
