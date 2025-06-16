@@ -6,3 +6,8 @@ Clustering is a powerful technique with many use cases. In the financial industr
 * EDA & Data Cleaning
 * Feature Engineering
 * K-Means Clustering
+
+**Kmeans Clustering**
+<p align="left">
+ <img src="assets/Kmeans.png" alt="kmeans_plot"/>
+</p>
