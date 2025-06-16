@@ -9,5 +9,5 @@ Clustering is a powerful technique with many use cases. In the financial industr
 
 ## Kmeans Clustering
 <p align="left">
- <img src="assets/Kmeans.png" alt="kmeans_plot" style="margin-left: -80px;"/>
+ <img src="assets/Kmeans.png" alt="kmeans_plot"/>
 </p>
